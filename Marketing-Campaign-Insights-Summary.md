@@ -48,3 +48,17 @@ The analysis notebook loads and examines a marketing campaign dataset containing
 
 
 * **Visual Analysis:** The notebook incorporates a Seaborn scatter plot mapping **Acquisition Cost** against **ROI** to evaluate financial efficiency and cost-to-return dynamics across campaigns.
+
+## Conversion Insights by Language
+
+The notebook now identifies the customer segment with the highest average conversion rate for each language:
+
+| Language | Highest-converting customer segment | Average conversion rate |
+| --- | --- | ---: |
+| English | Tech Enthusiasts | 5.02% |
+| French | Health & Wellness | 4.69% |
+| German | Foodies | 4.71% |
+| Mandarin | Health & Wellness | 4.76% |
+| Spanish | Foodies | 4.66% |
+
+* **Pattern:** Tech Enthusiasts lead English-language campaigns, Health & Wellness leads French and Mandarin campaigns, and Foodies lead German and Spanish campaigns.
